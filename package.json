@@ -1,0 +1,19 @@
+{
+  "name": "dg-feed",
+  "version": "1.0.0",
+  "description": "feed API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Justice-Chatbot-Limited/DG-feed.git"
+  },
+  "author": "Dieu grace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Justice-Chatbot-Limited/DG-feed/issues"
+  },
+  "homepage": "https://github.com/Justice-Chatbot-Limited/DG-feed#readme"
+}
